@@ -1,9 +1,31 @@
-## I'm Luca Sassaroli 👋
+## I'm [Luca Sassaroli!](https://fire-somersault-6c0.notion.site/Luca-Sassaroli-1ec6d54756ae45589a8280308f5a57f8) 👋
 
 Developer in progress!
 
-### Contact
+### Contact Me
 
- [![Linkedin](https://img.icons8.com/ios-glyphs/20/ffffff/linkedin-circled--v1.png) LinkedIn](https://www.linkedin.com/in/luca-sassaroli-2772531a2/)
-&nbsp;
-[![GitHub](https://img.icons8.com/ios-glyphs/20/ffffff/github.png) GitHub](https://github.com/luccasassa)
+<a href="https://www.linkedin.com/in/luca-sassaroli-2772531a2/">
+  <img alt="Luca Sassaroli LinkedIn" width="22px" src="https://icongr.am/entypo/linkedin-with-circle.svg?size=128&color=currentColor" />
+</a>
+
+<a href="https://github.com/luccasassa">
+  <img alt="Luca Sassaroli GitHub" width="22px" src="https://icongr.am/entypo/github-with-circle.svg?size=128&color=currentColor" />
+</a>
+
+<a href="https://www.instagram.com/luccasassa">
+  <img alt="Luca Sassaroli Instagram" width="22px" src="https://icongr.am/entypo/instagram-with-circle.svg?size=128&color=currentColor" />
+</a>
+
+## Languages and Tools
+
+<code>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+</code>
+
+<code>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+</code>
+
+<code>
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
+</code>
