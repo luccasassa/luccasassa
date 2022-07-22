@@ -5,15 +5,15 @@ Developer in progress!
 ## Contact Me
 
 <a href="https://www.linkedin.com/in/luca-sassaroli-2772531a2/">
-<img alt="Luca Sassaroli LinkedIn" width="22px" src="https://icongr.am/entypo/linkedin.svg?size=130&color=ffffff" />
+<img alt="Luca Sassaroli LinkedIn" width="22px" src="https://icongr.am/entypo/linkedin.svg?size=120&color=ffffff" />
 </a>
 
 <a href="https://github.com/luccasassa">
-<img alt="Luca Sassaroli GitHub" width="22px" src="https://icongr.am/entypo/github.svg?size=130&color=ffffff" />
+<img alt="Luca Sassaroli GitHub" width="22px" src="https://icongr.am/entypo/github.svg?size=120&color=ffffff" />
 </a>
 
 <a href="https://www.instagram.com/luccasassa">
-<img alt="Luca Sassaroli Instagram" width="22px" src="https://icongr.am/entypo/instagram.svg?size=130&color=ffffff" />
+<img alt="Luca Sassaroli Instagram" width="22px" src="https://icongr.am/entypo/instagram.svg?size=120&color=ffffff" />
 </a>
 
 ## Languages and Tools
