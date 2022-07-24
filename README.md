@@ -4,7 +4,7 @@ Developer in progress!
 
 ## Contact Me
 
-<a href="https://www.linkedin.com/in/luca-sassaroli-2772531a2/">
+<a href="https://www.linkedin.com/in/luccasassa/">
 <img alt="Luca Sassaroli LinkedIn" width="22px" src="https://icongr.am/entypo/linkedin-with-circle.svg?size=125&color=ffffff" />
 </a>
 
