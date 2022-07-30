@@ -1,4 +1,4 @@
-## I'm [Luca Sassaroli](https://fire-somersault-6c0.notion.site/Luca-Sassaroli-1ec6d54756ae45589a8280308f5a57f8) 👋
+## I'm [Luca Sassaroli](https://luccasassa.netlify.app/) 👋
 
 Developer in progress!
 
