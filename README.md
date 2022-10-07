@@ -1,4 +1,4 @@
-## I'm [Luca Sassaroli](https://luccasassa.netlify.app/) <img width="32px" margin-left="10px" src="https://i.imgur.com/1iKZ5va.png" />
+## I'm [Luca Sassaroli](https://luccasassa.netlify.app/) <img width="35px" src="https://i.imgur.com/1iKZ5va.png" />
 
 Developer in progress!
 
@@ -8,7 +8,7 @@ Developer in progress!
 
 ## Languages and Tools
 
-<code><img height="20" src="https://i.imgur.com/Ve6dktA.png"></code>
-<code><img height="20" src="https://i.imgur.com/oxbjAyO.png"></code>
-<code><img height="20" src="https://i.imgur.com/tAQLNLg.png"></code>
-<code><img height="20" src="https://i.imgur.com/UMSl7qx.png"></code>
+<code><img alt="JavaScript" height="25" src="https://i.imgur.com/Ve6dktA.png"></code>
+<code><img alt="ReactJS" height="25" src="https://i.imgur.com/oxbjAyO.png"></code>
+<code><img alt="Firebase" height="25" src="https://i.imgur.com/tAQLNLg.png"></code>
+<code><img alt="MySQL" height="25" src="https://i.imgur.com/UMSl7qx.png"></code>
