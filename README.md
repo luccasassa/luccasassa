@@ -1,6 +1,6 @@
 # I'm [Luca Sassaroli](https://luccasassa.netlify.app/) <img width="32px" src="https://i.imgur.com/1iKZ5va.png" />
 
-Frontend Developer with experience in UI <img width="28px" src="https://i.imgur.com/Zn7JzZF.png" /><img width="28px" src="https://i.imgur.com/sRvb6Gh.png" /> 
+Frontend Developer with experience in UI Developer <img width="28px" src="https://i.imgur.com/Zn7JzZF.png" /><img width="28px" src="https://i.imgur.com/sRvb6Gh.png" /> 
 
 ### Contact Me
 
